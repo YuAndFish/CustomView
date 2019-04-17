@@ -7,4 +7,4 @@ allprojects {
     }
 }
 
-implementation 'com.github.YuAndFish:CustomView:v1.0'
+implementation 'com.github.YuAndFish:CustomView:v1.1'
