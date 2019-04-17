@@ -1,4 +1,4 @@
-package com.jiedai.customview.view;
+package com.jiedai.mylibrary.views;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.View;
 
-import com.jiedai.customview.R;
+import com.jiedai.mylibrary.R;
 import com.orhanobut.logger.Logger;
 
 import java.util.HashSet;

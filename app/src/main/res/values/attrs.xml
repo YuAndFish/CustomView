@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="CustomTextView">
-        <attr name="customText" format="string" />
-        <attr name="customTextColor" format="color" />
-        <attr name="customTextSize" format="dimension" />
-    </declare-styleable>
-
     <declare-styleable name="CustomImageView">
         <attr name="customImageText" format="string" />
         <attr name="customImageTextColor" format="color" />
