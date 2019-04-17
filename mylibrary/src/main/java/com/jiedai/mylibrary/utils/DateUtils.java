@@ -6,4 +6,9 @@ package com.jiedai.mylibrary.utils;
  * description：
  */
 public class DateUtils {
+
+    public static void getNowDate() {
+
+    }
+
 }
